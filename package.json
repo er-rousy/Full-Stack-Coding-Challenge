@@ -1,0 +1,29 @@
+{
+  "name": "fullstackcodingchallenge",
+  "version": "1.0.0",
+  "description": "The task is to implement a small Facebook-powered web app. The goal of the app is to let the user export his photos from Facebook.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo  && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/er-rousy/Full-Stack-Coding-Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/er-rousy/Full-Stack-Coding-Challenge/issues"
+  },
+  "homepage": "https://github.com/er-rousy/Full-Stack-Coding-Challenge#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "webpack": "^3.7.1",
+    "webpack-dev-server": "^2.9.1"
+  }
+}
